@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SubhamSRawat
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on web project
+- 👀 I’m interested in Java Backend Development and Android Development
+- 🌱 I’m currently learning Spring framework
+- 💞️ I’m looking to collaborate on Web and Android Projects
 - 📫 How to reach me www.linkedin.com/in/subham-singh-rawat
 
 <!---
